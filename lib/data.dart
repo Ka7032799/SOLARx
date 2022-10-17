@@ -21,7 +21,6 @@ List<PlanetInfo> planets = [
       description:
           "Zipping around the sun in only 88 days, Mercury is the closest planet to the sun, and it's also the smallest, only a little bit larger than Earth's moon. Because its so close to the sun (about two-fifths the distance between Earth and the sun), Mercury experiences dramatic changes in its day and night temperatures: Day temperatures can reach a scorching 840  F (450 C), which is hot enough to melt lead. Meanwhile on the night side, temperatures drop to minus 290 F (minus 180 C).",
       images: [
-        'https://wallpapercave.com/wp/wp8779470.jpg',
         'https://cdn.pixabay.com/photo/2013/07/18/10/57/mercury-163610_1280.jpg',
         'https://cdn.pixabay.com/photo/2014/07/01/11/38/planet-381127_1280.jpg',
         'https://image.shutterstock.com/image-illustration/mercury-high-resolution-images-presents-600w-367615301.jpg'

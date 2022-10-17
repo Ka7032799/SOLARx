@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.fluttergalaxse">
+    package="com.kareem.ahmed">
    <application
         android:label="STARx"
         android:name="${applicationName}"
